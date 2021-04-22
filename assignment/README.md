@@ -23,7 +23,6 @@ To receive credit for this assignment, please submit a pull request **NO LATER T
 
 **[How to find a font from an image](https://www.myfonts.com/WhatTheFont/result)** <br>
 **[What the Font - chrome extension](https://www.myfonts.com/WhatTheFont/result)** <br>
-
 **[How to find a color from a website](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en)** <br>
 
 
