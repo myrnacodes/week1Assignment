@@ -1,5 +1,12 @@
-### week1Assignment
+### Mock up practice
 
+
+Please please please just practice building these from scratch and don't look up the answer until you're absolutely stuck and you cannot find it on the interet. The link below is a safety net because some things you will just need to know the answer but use sparingly.
+
+
+If you actually read the README, like I know some of you do. **[You will find tons of answers here](https://www.ironspider.ca/webdesign102/tables4layout2.htm)**
+
+### week1Assignment
 
 You are going to do all of your work in `assignment.html & assignment.css`
 
