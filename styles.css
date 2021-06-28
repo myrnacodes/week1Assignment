@@ -1,0 +1,37 @@
+body {
+    background-color:whitesmoke;
+    height: 100vh;
+    width: 100vw;
+}
+
+#container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.column1, .column2, .column3 {
+    background-color: darkmagenta;
+    height: 100%;
+    width: 30%;
+    border: solid teal 5px;
+    /* float: left; */
+    margin: 10px;
+}
+
+#leaf {
+    width: 95%;
+    height: 25%;
+}
+
+#flag {
+    width: 95%;
+    height: 25%;
+}
+
+#photos {
+    width: 95%;
+    height: 25%;
+}
